@@ -1,0 +1,5 @@
+pip install pandas
+pip install matplotlib
+pip install seaborn
+conda activate main-ds
+pip install streamlit
